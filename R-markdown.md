@@ -3,11 +3,10 @@ Report on Gun Murders
 Olivia
 1/26/2022
 
-# learn websit: <https://www.markdowntutorial.com/>
+learn websit: <https://www.markdowntutorial.com/>
+<https://rmarkdown.rstudio.com/> <https://yihui.org/knitr/>
 
-# R code chunks: where you write R code
-
-# ctrl + alt + i create new chunk
+R code chunks: where you write R code ctrl + alt + i create new chunk
 
 ## R Markdown
 
@@ -19,7 +18,7 @@ When you click the **Knit** button a document will be generated that
 includes both content as well as the output of any embedded R code
 chunks within the document. You can embed an R code chunk like this:
 
-# give a meaning for name for R code chunk
+give a meaning for name for R code chunk
 
 ``` r
 summary(cars)
@@ -35,7 +34,7 @@ summary(cars)
 
 ## Including Plots
 
-You can also embed plots, for example: # echo = FALSE wouldn’t show the
+You can also embed plots, for example: echo = FALSE wouldn’t show the
 plot ![](R-markdown_files/figure-gfm/pressure-1.png)<!-- -->
 
 Note that the `echo = FALSE` parameter was added to the code chunk to
